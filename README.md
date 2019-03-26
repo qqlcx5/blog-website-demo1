@@ -1,21 +1,7 @@
-# vue
+## 项目展示
 
-> A Vue.js project
+![image.png](https://upload-images.jianshu.io/upload_images/6206911-a0868d556afec757.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## Build Setup
+## 实现那些功能
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+增删改查博客内容，多彩的博客标题
